@@ -9,7 +9,7 @@
   <samp>A highly motivated software engineer with over +6 years of Android Developement software development. I am also coding using many languages,i.e: Java, Kotlin, JavaScript, php
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=gemidroid&style=flat" alt="https://github.com/gemidroid" />
+  <a href="https://github.com/GemiDroid"> <img src="https://komarev.com/ghpvc/?username=gemidroid&style=flat" /> </a>
 </p>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
