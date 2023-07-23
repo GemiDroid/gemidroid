@@ -15,6 +15,7 @@
 - Dart: <font color ="green">[Intermediate]</font>
 - C#: <font color ="green">[Intermediate]</font>
 - Swift: <font color ="blue">[Beginner]</font>
+
   <h2 align="center"><a href="https://github.com/GemiDroid"> <img src="https://komarev.com/ghpvc/?username=gemidroid&style=flat" /> </a> </h2>
   <h2  align="center">📫 Reach me out on</h2>
 
@@ -26,4 +27,4 @@
 <hr>
 <h6>happy to get feedbacks and comments...</h6>
 
-<h2  align="center">💻 Check Out My Repos ⬇ </h2>
+<h3 align="center">💻 Check Out My Repos ⬇ </h3>
