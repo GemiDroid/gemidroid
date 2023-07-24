@@ -5,7 +5,7 @@
 <p>
   <img src="https://onlinecoursetutorials.com/wp-content/uploads/2022/02/What-is-Kotlin-and-its-advantages-and-disadvantages-of-Kotlin.png"/>
 </p>
-<h7>A highly motivated software engineer with over +6 years of Android Developement software development.</h7>
+<h7>A highly motivated software engineer with over +6 years of Android Developement.</h7>
 <h6>I am coding using many languages:- </h6>
 
 - Java:<font color ="red"> [Advanced]</font>
